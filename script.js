@@ -1,5 +1,4 @@
 
-const log = console.log;
 
 class LocalStorage {
     #keyName;
